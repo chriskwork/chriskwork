@@ -10,7 +10,7 @@
 
 ### 🛠 Toolkit
 
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) ![Adobe InDesign](https://img.shields.io/badge/-InDesign-black?style=flat-square&logo=adobeindesign)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css&logoColor=white) ![JavasSript](https://img.shields.io/badge/-JavasSript-333333?style=flat&logo=javascript&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
 
 ---
 
