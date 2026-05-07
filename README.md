@@ -1,4 +1,4 @@
-# 👋 Hola! I'm ChrisK (chriskwork)
+# 👋 Hola! I'm Yohan (chriskwork)
 
 ### 🚀 About Me
 
@@ -16,9 +16,9 @@
 
 ### 📫 Contact & Connect
 
-- 📧 Email: chriskwork111@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/yohankim-dev
-- 🌍 Blog/Portfolio: Soon.
+- Email: chriskwork111@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yohankim-dev
+- Blog/Portfolio: Soon.
 
 ---
 
